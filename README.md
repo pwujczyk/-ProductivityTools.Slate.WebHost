@@ -12,3 +12,6 @@
 
 
 # PTSlate webhost
+
+Webhost for my implementation of the Slate.
+<!--more-->
